@@ -1,7 +1,16 @@
 module.exports = {
   base: '/software-engineering-note/',
-  title: '软件工程笔记',
-  description: '软件工程应试笔记',
+  head: [
+    ['link', { rel: 'icon', href: '/note.png' }],
+    ['meta', { name: 'theme-color', content: '#000000' }]
+  ],
+  locales: {
+    '/': {
+      lang: 'zh-CN',
+      title: '软件工程笔记',
+      description: '软件工程应试笔记',
+    },
+  },
   themeConfig: {
     nav: [
       { text: '指南', link: '/guide/' },
