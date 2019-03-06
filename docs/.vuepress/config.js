@@ -1,6 +1,7 @@
 module.exports = {
+  base: '/software-engineering-note/',
   title: '软件工程笔记',
-  description: 'Just playing around',
+  description: '软件工程应试笔记',
   themeConfig: {
     nav: [
       { text: '指南', link: '/guide/' },
