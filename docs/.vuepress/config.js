@@ -14,6 +14,17 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '指南', link: '/guide/' },
+      {
+        text: '笔记',
+        items: [
+          { text: '单项选择题', link: '/notes/one-choice/' },
+          { text: '判断题', link: '/notes/true-or-false/' },
+          { text: '填空题', link: '/notes/gap-filling/' },
+          { text: '名词解释', link: '/notes/explanation-of-nouns/' },
+          { text: '简答题', link: '/notes/short-answer/' },
+          { text: '应用题', link: '/notes/applied-problems/' }
+        ]
+      },
       { text: '历年真题', link: '/past-exam-papers/' },
       { text: '博客', link: 'https://yunyoujun.cn' },
     ],

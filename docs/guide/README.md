@@ -10,6 +10,8 @@
 
 如果您觉得对您有用，请给我一个 [:star:](https://github.com/YunYouJun/software-engineering-note) 。
 
+May the Knowledge be with you ! :muscle:
+
 ## 应试科目
 
 | 专业/领域 | 考试科目（代码） |
@@ -18,7 +20,7 @@
 
 ## 试卷题型
 
-:100: 满分 100 分
+满分 :100: 分
 
 | 题型 | 分值 | 题量 | 总分 | 备注 |
 | --- | --- | --- | --- | --- |
@@ -37,3 +39,7 @@
 | --- | --- | --- |
 | 软件工程（第4版） | 张海藩 吕云翔 编著 | 人民邮电出版社 |
 | 软件工程（第4版） 学习辅导与习题解析 | 张海藩 吕云翔 编著 | 人民邮电出版社 |
+
+## Contact Me
+
+[云游君](https://yunyoujun.cn) || [:email:](mailto:me@yunyoujun.cn) || [@YunYouJun](https://github.com/YunYouJun)
