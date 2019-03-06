@@ -14,6 +14,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '指南', link: '/guide/' },
+      { text: '历年真题', link: '/past-exam-papers/' },
       { text: '博客', link: 'https://yunyoujun.cn' },
     ],
     repo: 'YunYouJun/software-engineering-note',
