@@ -3,7 +3,7 @@ node_js:
   - lts/*
 branches:
   except:
-  - gh-pages
+    - gh-pages
 script:
   - npm run docs:build
 deploy:

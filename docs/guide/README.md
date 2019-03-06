@@ -16,3 +16,11 @@
 - 名词解释 （每题 4 分，共 24 分，若无判断题则每题 5 分，共 30 分）
 - 简答题 （每题 5 分，共 30 分）
 - 应用题 （每题 15 分，共 30 分）
+
+<script>
+export default {
+  mounted () {
+    console.log(this.$lang)
+  }
+}
+</script>
