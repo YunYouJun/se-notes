@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/software-engineering-note/',
   head: [
     ['link', { rel: 'icon', href: '/note.png' }],
     ['meta', { name: 'theme-color', content: '#000000' }]
