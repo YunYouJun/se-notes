@@ -6,7 +6,7 @@ software-engineering-note for cuc secondary examination
 
 软件工程笔记
 
-Web: <https://yunyoujun.github.io/software-engineering-note/>
+在线阅读: <https://se-notes.yunyoujun.cn>
 
 ## Usage
 

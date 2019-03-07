@@ -24,7 +24,12 @@ module.exports = {
           { text: '应用题', link: '/notes/applied-problems/' }
         ]
       },
-      { text: '历年真题', link: '/past-exam-papers/' },
+      { 
+        text: '历年真题', 
+        items: [
+          { text: 'CUC 软件工程', link: '/past-exam-papers/cuc/'}
+        ]
+      },
       { text: '博客', link: 'https://yunyoujun.cn' },
     ],
     repo: 'YunYouJun/software-engineering-note',

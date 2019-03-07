@@ -1,8 +1,18 @@
 # 历年真题
 
-## CUC 软件工程 复试 :page_facing_up:
+:page_facing_up:
 
-| 年份 | 预览 | 下载 |
+## CUC 软件工程 复试
+
+### [Markdown](./cuc/)
+
+#### [2004](./cuc/software-engineering-note-retest-2004/)
+
+#### 2004
+
+### PDF
+
+| 年份 | 预览 | 下载 PDF |
 | --- | --- | --- |
 | 2004 | [:sunrise_over_mountains:](https://github.com/YunYouJun/software-engineering-note/blob/master/assets/past-exam-papers/cuc/software-engineering-retest-2004.pdf) | [:open_file_folder:](https://github.com/YunYouJun/software-engineering-note/blob/master/assets/past-exam-papers/cuc/software-engineering-retest-2004.pdf?raw=true) |
 | 2005 | [:sunrise_over_mountains:](https://github.com/YunYouJun/software-engineering-note/blob/master/assets/past-exam-papers/cuc/software-engineering-retest-2005.pdf) | [:open_file_folder:](https://github.com/YunYouJun/software-engineering-note/blob/master/assets/past-exam-papers/cuc/software-engineering-retest-2005.pdf?raw=true) |
