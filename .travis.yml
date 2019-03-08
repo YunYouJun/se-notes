@@ -8,7 +8,7 @@ branches:
   except:
     - gh-pages
 script:
-  - npm run docs:build
+  - npm run build
 deploy:
   provider: pages
   skip-cleanup: true
