@@ -11,7 +11,13 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-      { text: '指南', link: '/guide/' },
+      { 
+        text: '指南',
+        items: [
+          { text: '关于', link: '/guide/' },
+          { text: '风格指南', link: '/guide/style.html' }
+        ]
+      },
       {
         text: '笔记',
         items: [
