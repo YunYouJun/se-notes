@@ -4,13 +4,13 @@
 
 ## 一、单项选择题（每小题 1 分，共 20 分）
 
-1. 在（）完成后，可以着手制定测试计划。  
-  A· 需求分析  
-  C· 详细设计  
-  B· 系统设计  
-  D· 软件编码  
+1. 在（A）完成后，可以着手制定测试计划。  
+  **A. 需求分析**  
+  C. 详细设计  
+  B. 系统设计  
+  D. 软件编码  
 
-2. 将软件组件的接口与实现分离，主要体现了（）原则。  
+2. 将软件组件的接口与实现分离，主要体现了（D）原则。  
   A. 强内聚  
   c. 弱耦合  
   B. 依赖倒转  
@@ -22,7 +22,7 @@
   C. 弱耦合  
   D. 信息隐藏  
 
-4. （）是软件最高层次的设计。  
+4. （A）是软件最高层次的设计。  
   **A. 体系结构设计**  
   B. 子系统设计  
   C. 对象设计  
@@ -41,20 +41,20 @@
   **D. 待开发的软件是否会有质量问题**
 
 7. 软件项目计划一般不包括以下哪项内容（A）。  
-  **A. 培训计划**
-  B. 人员安排
-  C. 进度安排
-  D. 软件开发标准的选择和制定
+  **A. 培训计划**  
+  B. 人员安排  
+  C. 进度安排  
+  D. 软件开发标准的选择和制定  
 
 8. 以下哪一项不属于面向对象的软件开发方法（C）。  
-  A. coad 方法
-  B. booch 方法
-  **C. jackson 方法**
-  D. omt 方法
+  A. coad 方法  
+  B. booch 方法  
+  **C. jackson 方法**  
+  D. omt 方法  
     > Jackson设计方法是一种面向数据结构的软件设计方法，Jackson分析方法是面向数据流的分析方法。  
     > [Jackson方法 | 百度百科](https://baike.baidu.com/item/jackson方法)
 
-9. 希望一个软件在任何意外的情况下都能适应，这是要求它的（B）好。
+9. 希望一个软件在任何意外的情况下都能适应，这是要求它的（B）好。  
   A. 正确性  
   **B. 健壮性**  
   C. 安全性  
@@ -151,15 +151,15 @@
 
 ## 三、名词解释（每小题 3 分，共 27 分）
 
-a) [抽象](/notes/explanation-of-nouns/#原型)
-b) [原型](/notes/explanation-of-nouns/#模块化)
-c) [模块化](/notes/explanation-of-nouns/#)
-d) [瀑布模型](/notes/explanation-of-nouns/#瀑布模型)
-e) [增量模型](/notes/explanation-of-nouns/#增量模型)
-f) [面向对象设计](/notes/explanation-of-nouns/#面向对象设计)
-g) [结构化分析](/notes/explanation-of-nouns/#结构化分析)
-h) [动态模型](/notes/explanation-of-nouns/#动态模型)
-i) [对象模型](/notes/explanation-of-nouns/#对象模型)
+a) [抽象](/notes/explanation-of-nouns/#原型)  
+b) [原型](/notes/explanation-of-nouns/#模块化)  
+c) [模块化](/notes/explanation-of-nouns/#)  
+d) [瀑布模型](/notes/explanation-of-nouns/#瀑布模型)  
+e) [增量模型](/notes/explanation-of-nouns/#增量模型)  
+f) [面向对象设计](/notes/explanation-of-nouns/#面向对象设计)  
+g) [结构化分析](/notes/explanation-of-nouns/#结构化分析)  
+h) [动态模型](/notes/explanation-of-nouns/#动态模型)  
+i) [对象模型](/notes/explanation-of-nouns/#对象模型)  
 
 ## 四、简述或问答题（每小题 4 分，共 20 分）
 
@@ -203,6 +203,9 @@ e) [简述软件设计的“强内聚原则”。](/notes/short-answer/#简述�
     > 试根据要求画出该系统的数据流程图，并将其转换位软件结构图。
 
     数据流程图：
+
     ![学生成绩管理系统-数据流程图](/images/past-exam-papers/cuc/学生成绩管理系统-数据流程图.png)
+
     软件结构图：
+
     ![学生成绩管理系统-软件结构图](/images/past-exam-papers/cuc/学生成绩管理系统-软件结构图.png)
