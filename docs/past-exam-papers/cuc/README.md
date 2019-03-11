@@ -13,6 +13,7 @@ Markdown 版本附带解答，答案参考自书本与网络，不保证完全�
 - [中国传媒大学 2006 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2006.html)
 - [中国传媒大学 2007 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2007.html)
 - [中国传媒大学 2008 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2008.html)
+- [中国传媒大学 2009 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2009.html)
 
 试题 Markdown 计划实施中...
 
