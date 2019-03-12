@@ -159,7 +159,7 @@ D. 封装
 ## 四、名词解释（每小题 4 分，共 20 分）
 
 1. [软件工程方法学](/notes/explanation-of-nouns/#软件工程方法学)
-2. [多态](/notes/explanation-of-nouns/#多态)
+2. [多态](/notes/explanation-of-nouns/#多态性)
 3. [面向对象分析](/notes/explanation-of-nouns/#面向对象分析)
 4. [软件测试](/notes/explanation-of-nouns/#软件测试)
 5. [软件的健壮性](/notes/explanation-of-nouns/#软件的健壮性)
