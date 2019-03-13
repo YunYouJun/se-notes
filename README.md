@@ -1,6 +1,6 @@
 # software-engineering-note
 
-[![Build Status](https://travis-ci.com/YunYouJun/software-engineering-note.svg?branch=master)](https://travis-ci.com/YunYouJun/software-engineering-note)
+[![Build Status](https://travis-ci.com/YunYouJun/software-engineering-notes.svg?branch=master)](https://travis-ci.com/YunYouJun/software-engineering-notes)
 
 software-engineering-note for cuc secondary examination
 

@@ -121,7 +121,12 @@
     end
     ```
 
+    N-S 盒图：
+
     ![N-S 盒图](/images/past-exam-papers/cuc/2010/N-S盒图.png)
+
+    PAD 图：
+
     ![PAD 图](/images/past-exam-papers/cuc/2010/PAD图.png)
 
 3. 根据下面的需求描述，画出髙层数据流图（范围图）以及一级数据流图。一个超市需要开发
