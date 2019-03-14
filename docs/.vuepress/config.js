@@ -26,7 +26,6 @@ module.exports = {
           { text: '填空题', link: '/notes/gap-filling/' },
           { text: '名词解释', link: '/notes/explanation-of-nouns/' },
           { text: '简答题', link: '/notes/short-answer/' },
-          { text: '论述题', link: '/notes/discourse/' },
           { text: '应用题', link: '/notes/applied-problems/' }
         ]
       },
