@@ -151,9 +151,9 @@
 
 ## 三、名词解释（每小题 3 分，共 27 分）
 
-a) [抽象](/notes/explanation-of-nouns/#原型)  
-b) [原型](/notes/explanation-of-nouns/#模块化)  
-c) [模块化](/notes/explanation-of-nouns/#)  
+a) [抽象](/notes/explanation-of-nouns/#抽象)  
+b) [原型](/notes/explanation-of-nouns/#原型)  
+c) [模块化](/notes/explanation-of-nouns/#模块化)  
 d) [瀑布模型](/notes/explanation-of-nouns/#瀑布模型)  
 e) [增量模型](/notes/explanation-of-nouns/#增量模型)  
 f) [面向对象设计](/notes/explanation-of-nouns/#面向对象设计)  
