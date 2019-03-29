@@ -1,9 +1,9 @@
 {
-  "name": "software-engineering-note",
+  "name": "software-engineering-notes",
   "version": "1.0.0",
   "description": "软件工程笔记",
   "main": "index.js",
-  "repository": "https://github.com/YunYouJun/software-engineering-note",
+  "repository": "https://github.com/YunYouJun/software-engineering-notes",
   "author": "云游君 <me@yunyoujun.cn>",
   "license": "MIT",
   "private": true,

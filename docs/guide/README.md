@@ -6,9 +6,9 @@
 
 个人在软件工程应试学习中所记录的笔记 :open_book:。
 
-如有谬误，欢迎指正 [:tada:](https://github.com/YunYouJun/software-engineering-note/issues/new)。
+如有谬误，欢迎指正 [:tada:](https://github.com/YunYouJun/software-engineering-notes/issues/new)。
 
-如果您觉得对您有用，请给我一个 [:star:](https://github.com/YunYouJun/software-engineering-note) 。
+如果您觉得对您有用，请给我一个 [:star:](https://github.com/YunYouJun/software-engineering-notes) 。
 
 May the Knowledge be with you ! :muscle:
 
