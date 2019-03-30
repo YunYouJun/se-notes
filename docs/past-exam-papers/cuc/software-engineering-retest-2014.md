@@ -78,7 +78,7 @@
 ## 三、名词解释（每题 4 分，共 24 分）
 
 1. [概要设计](/notes/explanation-of-nouns/#概要设计)
-2. [问题分析图PAD](/notes/explanation-of-nouns/#PAD图)
+2. [问题分析图PAD](/notes/explanation-of-nouns/#pad图)
 3. [UML](/notes/explanation-of-nouns/#uml)
 4. [多态性](/notes/explanation-of-nouns/#多态性)
 5. [边界值分析法](/notes/explanation-of-nouns/#边界值分析法)
