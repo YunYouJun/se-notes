@@ -6,7 +6,7 @@
 
 ### Markdown
 
-Markdown 版本附带解答，答案参考自书本与网络，不保证完全正确。
+Markdown 版本附带解答，为自行编写，答案参考自书本与网络，不保证完全正确。
 
 - [北京广播学院 2004 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2004.html)
 - [中国传媒大学 2005 年攻读硕士学位研究生入学考试 软件工程试题](./software-engineering-retest-2005.html)
@@ -22,8 +22,6 @@ Markdown 版本附带解答，答案参考自书本与网络，不保证完全�
 - [中国传媒大学 2015 年全国硕士研究生入学考试 软件工程试题](./software-engineering-retest-2015.html)
 - [中国传媒大学 2016 年全国硕士研究生入学考试（复试）软件工程试题](./software-engineering-retest-2016.html)
 - [中国传媒大学 2017 年全国硕士研究生入学考试（复试笔试）软件工程试题](./software-engineering-retest-2017.html)
-
-试题 Markdown 计划实施中...
 
 ### PDF
 

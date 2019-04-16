@@ -47,3 +47,17 @@ May the Knowledge be with you ! :muscle:
 - :cloud: [yunyoujun.cn](https://yunyoujun.cn)
 - :email: <me@yunyoujun.cn>
 - :house: [@YunYouJun](https://github.com/YunYouJun)
+
+## 后记
+
+这是我往年与中传的故事、心路历程和经验 <https://yunyoujun.cn/tags/中传/>
+希望能对你有所帮助（譬如作为鸡汤 hhh）
+
+中传这方面的资料实在太少，答案也只是自己做的，不知正确与否。
+所以我希望能分享给大家。
+
+以及再次声明，这个是开源在 [GitHub](https://github.com/YunYouJun/software-engineering-notes) 上的，开源免费！开源免费！开源免费！
+
+（之前发在中传的一个考研群里，结果群主是考研辅导机构的。= = 撤回了我的消息，还被踢出群了。）
+
+总之万一被辅导机构拿去，大家最好不要收费被骗了。
