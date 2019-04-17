@@ -1,6 +1,6 @@
 # 应用题
 
-[更多](../past-exam-papers/cuc/)请参见真题。
+[更多](../../past-exam-papers/cuc/)请参见真题。
 
 ## 影片租赁店
 
