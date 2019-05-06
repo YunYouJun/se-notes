@@ -50,8 +50,8 @@ May the Knowledge be with you ! :muscle:
 
 ## 后记
 
-这是我往年与中传的故事、心路历程和经验 <https://yunyoujun.cn/tags/中传/>
-希望能对你有所帮助（譬如作为鸡汤 hhh）
+这是我往年与中传的故事、心路历程和经验 <https://yunyoujun.cn/tags/中传/>。
+希望能对你有所帮助（譬如作为鸡汤 hhh）。
 
 中传这方面的资料实在太少，答案也只是自己做的，不知正确与否。
 所以我希望能分享给大家。

@@ -11,6 +11,6 @@ features:
 - title: 便捷导航
   details: 总结常用知识点。
 - title: 本地搜索
-  details: 快速搜索相关信息，获取想知道的问题与答案。
+  details: 快速搜索相关信息，获取问题与答案。
 footer: MIT Licensed | Copyright © 2019 YunYouJun
 ---
