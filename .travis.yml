@@ -7,6 +7,8 @@ cache:
 branches:
   except:
     - gh-pages
+before_install:
+  - export TZ='Asia/Shanghai' #配置时区为东八区UTC+8
 script:
   - npm run build
 deploy:

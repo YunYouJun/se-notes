@@ -14,6 +14,7 @@ software-engineering-notes for cuc secondary examination
 
 ```sh
 yarn docs:dev
+# localhost:8080
 ```
 
 ### Build
