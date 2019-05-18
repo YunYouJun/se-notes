@@ -7679,6 +7679,11 @@ vuepress-plugin-container@^2.0.0:
   dependencies:
     markdown-it-container "^2.0.0"
 
+vuepress-plugin-google-adsense@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-google-adsense/-/vuepress-plugin-google-adsense-0.0.1.tgz#557ce0d33f4f6e2aed47614503b94ec89dedb15a"
+  integrity sha512-0zhubVOaKmMj6VmtQAUwup6gXA6LlDsIOK7FT4GdpFEHvSZDE8Wp/MFqjGrqVNxWJuBCReCFZvcrV2z0iOuAkw==
+
 vuepress@^1.0.0-alpha.47:
   version "1.0.0-alpha.47"
   resolved "https://registry.npm.taobao.org/vuepress/download/vuepress-1.0.0-alpha.47.tgz#b6f06a5569aaf0b4016f9eb1da5fd4e01f295d45"
