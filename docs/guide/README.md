@@ -6,9 +6,9 @@
 
 个人在软件工程应试学习中所记录的笔记 :open_book:。
 
-如有谬误，欢迎指正 [:tada:](https://github.com/YunYouJun/software-engineering-notes/issues/new)。
+如有谬误，欢迎指正 [:tada:](https://github.com/YunYouJun/se-notes/issues/new)。
 
-如果您觉得对您有用，请给我一个 [:star:](https://github.com/YunYouJun/software-engineering-notes) 。
+如果您觉得对您有用，请给我一个 [:star:](https://github.com/YunYouJun/se-notes) 。
 
 May the Knowledge be with you ! :muscle:
 
@@ -56,7 +56,7 @@ May the Knowledge be with you ! :muscle:
 中传这方面的资料实在太少，答案也只是自己做的，不知正确与否。
 所以我希望能分享给大家。
 
-以及再次声明，这个是开源在 [GitHub](https://github.com/YunYouJun/software-engineering-notes) 上的，开源免费！开源免费！开源免费！
+以及再次声明，这个是开源在 [GitHub](https://github.com/YunYouJun/se-notes) 上的，开源免费！开源免费！开源免费！
 
 （之前发在中传的一个考研群里，结果群主是考研辅导机构的。= = 撤回了我的消息，还被踢出群了。）
 

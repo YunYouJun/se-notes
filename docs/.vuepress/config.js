@@ -37,7 +37,7 @@ module.exports = {
       },
       { text: '博客', link: 'https://yunyoujun.cn' },
     ],
-    repo: 'YunYouJun/software-engineering-notes',
+    repo: 'YunYouJun/se-notes',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页',
