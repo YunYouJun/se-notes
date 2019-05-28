@@ -45,6 +45,8 @@ module.exports = {
     lastUpdated: '上次更新'
   },
   plugins: {
+    '@vuepress/back-to-top': true,
+    '@vuepress/medium-zoom': true,
     '@vuepress/pwa': {
       serviceWorker: true,
       updatePopup: {
