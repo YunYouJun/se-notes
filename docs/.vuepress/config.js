@@ -1,6 +1,7 @@
 module.exports = {
   head: [
-    ['link', { rel: 'icon', href: '/note.png' }]
+    ['link', { rel: 'icon', href: '/note.png' }],
+    ['meta', { name: 'theme-color', content: '#6200ee' }],
   ],
   locales: {
     '/': {

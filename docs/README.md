@@ -14,3 +14,7 @@ features:
   details: 快速搜索相关信息，获取问题与答案。
 footer: MIT Licensed | Copyright © 2019 YunYouJun
 ---
+
+::: warning
+2020 年考研大纲大幅改变，本资料已未必有用，请留意[研招网](http://yz.cuc.edu.cn/)信息。
+:::
