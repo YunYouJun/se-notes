@@ -64,8 +64,7 @@ module.exports = {
       ga: "UA-121354150-7"
     },
     "vuepress-plugin-google-adsense": {
-      google_ad_client: "ca-pub-2245427233262012",
-      enable_page_level_ads: true
+      ad_client: "ca-pub-2245427233262012"
     }
   }
 };
