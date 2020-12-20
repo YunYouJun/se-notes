@@ -12,8 +12,10 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "yarn docs:dev",
+    "build": "yarn docs:build",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",

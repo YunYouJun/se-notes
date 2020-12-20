@@ -1,6 +1,6 @@
 # software-engineering-notes
 
-[![Build Status](https://travis-ci.com/YunYouJun/se-notes.svg?branch=master)](https://travis-ci.com/YunYouJun/se-notes)
+![docs](https://github.com/YunYouJun/se-notes/workflows/docs/badge.svg)
 
 software-engineering-notes for cuc secondary examination
 
@@ -13,16 +13,12 @@ software-engineering-notes for cuc secondary examination
 ### Dev
 
 ```sh
-yarn docs:dev
+yarn dev
 # localhost:8080
 ```
 
 ### Build
 
 ```sh
-yarn docs:build
+yarn build
 ```
-
-## Thanks
-
-Built by [VuePress](https://github.com/vuejs/vuepress).
